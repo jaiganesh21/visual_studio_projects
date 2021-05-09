@@ -1,0 +1,5 @@
+C:\Users\Vignesh\Desktop\study\vs\setup\JaiganeshTestSoftware.exe
+C:\Users\Vignesh\Desktop\study\vs\setup\JaiganeshTestSoftware.dll
+C:\Users\Vignesh\Desktop\study\vs\setup\JaiganeshTestSoftware.deps.json
+C:\Users\Vignesh\Desktop\study\vs\setup\JaiganeshTestSoftware.runtimeconfig.json
+C:\Users\Vignesh\Desktop\study\vs\setup\JaiganeshTestSoftware.pdb

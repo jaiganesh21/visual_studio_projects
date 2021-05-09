@@ -1,0 +1,5 @@
+C:\Users\Vignesh\Desktop\study\vs\setup for calculatorr\JaiganeshTestSoftware.exe
+C:\Users\Vignesh\Desktop\study\vs\setup for calculatorr\JaiganeshTestSoftware.dll
+C:\Users\Vignesh\Desktop\study\vs\setup for calculatorr\JaiganeshTestSoftware.deps.json
+C:\Users\Vignesh\Desktop\study\vs\setup for calculatorr\JaiganeshTestSoftware.runtimeconfig.json
+C:\Users\Vignesh\Desktop\study\vs\setup for calculatorr\JaiganeshTestSoftware.pdb

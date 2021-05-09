@@ -1,0 +1,19 @@
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\bin\Debug\net5.0-windows\Image_  Viwer.exe
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\bin\Debug\net5.0-windows\Image_  Viwer.deps.json
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\bin\Debug\net5.0-windows\Image_  Viwer.runtimeconfig.json
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\bin\Debug\net5.0-windows\Image_  Viwer.runtimeconfig.dev.json
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\bin\Debug\net5.0-windows\Image_  Viwer.dll
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\bin\Debug\net5.0-windows\ref\Image_  Viwer.dll
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\bin\Debug\net5.0-windows\Image_  Viwer.pdb
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image_  Viwer.vbprojAssemblyReference.cache
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image___Viwer.Form1.resources
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image_  Viwer.vbproj.GenerateResource.cache
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image_  Viwer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image_  Viwer.AssemblyInfoInputs.cache
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image_  Viwer.AssemblyInfo.vb
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image_  Viwer.vbproj.CoreCompileInputs.cache
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image_  Viwer.dll
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\ref\Image_  Viwer.dll
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image_  Viwer.pdb
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image_  Viwer.genruntimeconfig.cache
+C:\Users\Vignesh\source\repos\Image_  Viwer\Image_  Viwer\obj\Debug\net5.0-windows\Image___Viwer.Resources.resources

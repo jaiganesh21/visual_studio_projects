@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Vignesh\source\repos\JaiganeshTestSoftware\JaiganeshTestSoftware\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="calculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="changing_picture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DialogBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="digital_clock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="drawing different shapes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Image Viewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="moving_object.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Editor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My_editor_about_us.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="shopping_cart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="student_marks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wishlist Application.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

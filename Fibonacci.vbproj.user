@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Area_Of_Circle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="area_of_rectangle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="biggest_and_smallest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bmi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="even_odd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="factorial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lablebox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="leap_year.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mor_noon_eve_ngt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="multiplaction_tables.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patten Printing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="positive and negative.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="prime_or_not.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="simple interest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sum of n digits.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="textbox to textbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="username and paswrd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

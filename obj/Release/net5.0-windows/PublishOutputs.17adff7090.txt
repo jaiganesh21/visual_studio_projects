@@ -1,0 +1,5 @@
+F:\setup\JaiganeshTestSoftware.exe
+F:\setup\JaiganeshTestSoftware.dll
+F:\setup\JaiganeshTestSoftware.deps.json
+F:\setup\JaiganeshTestSoftware.runtimeconfig.json
+F:\setup\JaiganeshTestSoftware.pdb
